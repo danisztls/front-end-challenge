@@ -2,5 +2,9 @@
 title: "Search Results"
 sitemap:
   priority : 0.1
-layout: "search"
+type: page
+layout: search
+outputs:
+  - html
+  - json
 ---
